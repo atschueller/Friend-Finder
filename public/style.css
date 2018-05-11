@@ -1,11 +1,22 @@
 h2 {
+    font-size: 40px;
+}
+h4 {
     font-style: italic;
     font-size: 30px;
 }
 #surveyButton {
     padding: 20px;
 }
-#submit{
+#submit {
     width: 100%;
     font-size: 20px;
+}
+.namePhoto {
+    font-size: 20px;
+}
+#nameInput,
+#photoInput {
+    width: 100%;
+    padding: 5px;
 }
